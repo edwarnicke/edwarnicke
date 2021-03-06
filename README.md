@@ -11,6 +11,7 @@ I'm currently most involved with the [Network Service Mesh](https://networkservi
 |[vppagenthelper](https://github.com/edwarnicke/vppagenthelper) |Easily run a ([vpp-agent](https://github.com/ligato/vpp-agent), [vpp](https://fd.io/vppproject/vpptech/)) pair from Go code|
 |[pkgcloud](https://github.com/edwarnicke/pkgcloud) |Cli tool for [packagecloud.com](https://packagecloud.io/) with powerful Go template based cmdline options|
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edwarnicke&show_icons=true" alt="edwarnicke" /></p>
 
 
 <!-- - [jsonio](https://github.com/edwarnicke/jsonio) - Allows Reading/Writing -->  
