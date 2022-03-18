@@ -1,7 +1,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edwarnicke)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwarnicke/)
 
-I'm currently most involved with the [Network Service Mesh](https://networkservicemesh.io/) community.
+I'm currently most involved with the [GitBOM](https://gitbom.dev/) and [Network Service Mesh](https://networkservicemesh.io/) communities.
 
 #### 🔧 Useful tools I've written
 | Tool | Description |
